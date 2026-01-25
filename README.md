@@ -7,7 +7,6 @@
 A **Spring Boot–based backend service** for a modern food ordering & restaurant management platform.
 This project is designed with **clean architecture**, **scalable APIs**, and **real‑world backend practices** in mind.
 
-
 ---
 ## 🚀 Project Overview
 
